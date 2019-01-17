@@ -1,0 +1,8 @@
+{
+"name": "MinecraftInDiscord",
+"version": "0.0.1",
+"description": " A bot that allows you to run Minecraft commands in Discord, and create LAN worlds and servers.",
+"main": "bot.js",
+"author": "Mr. TTCM",
+"dependencies": {}
+}
